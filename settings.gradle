@@ -1,0 +1,3 @@
+include ':caster'
+include ':app'
+rootProject.name = "Caster"
